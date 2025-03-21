@@ -1,0 +1,9 @@
+data_paths:
+  historical_data: "data/historical_data/historical_data.csv"
+  realtime_data: "data/realtime_data/realtime_data.csv"
+model_path: "models/baseline_model.pkl"
+
+anomaly_threshold: 3.0  # Z-score threshold for anomaly detection
+time_column: "timestamp"
+metric_column: "page_name"
+value_column: "visitors"

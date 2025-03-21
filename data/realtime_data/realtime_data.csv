@@ -1,0 +1,9 @@
+﻿timestamp,page_name,visitors
+2023-11-01 00:00:00,homepage,1500
+2023-11-01 01:00:00,homepage,800
+2023-11-01 02:00:00,homepage,2000
+2023-11-01 03:00:00,homepage,950
+2023-11-01 00:00:00,product_page,100
+2023-11-01 01:00:00,product_page,700
+2023-11-01 02:00:00,product_page,50
+2023-11-01 03:00:00,product_page,900
